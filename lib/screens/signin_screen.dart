@@ -92,7 +92,7 @@ class _SigninScreenState extends State<SigninScreen> {
               )),
               Positioned(
                 top: 490,
-                child: Text('Figma Challenge - Flutter', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 20.1, foreground: Paint()
+                child: Text('Figma Challenge en Flutter', style: TextStyle(fontWeight: FontWeight.w900, fontSize: 20.1, foreground: Paint()
                 ..color = Color.fromARGB(255, 9, 203, 102)..strokeWidth = 10 ..style = PaintingStyle.fill))
               ),
               
