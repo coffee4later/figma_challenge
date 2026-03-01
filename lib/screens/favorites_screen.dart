@@ -51,7 +51,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
         elevation: 0,
         toolbarHeight: 60,
         backgroundColor: Colors.white,
-        title: const Text('Add Credit Card'),
+        title: const Text('Favorites'),
       ),
       body: Container(
         color: const Color.fromARGB(255, 240, 240, 240),
